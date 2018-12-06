@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.11)  30 NOV 2018 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.11)  7 DEC 2018 02:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**article_notes.tex
-(./article_notes.tex
+**Cappelen2018_ch2.tex
+(./Cappelen2018_ch2.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -335,8 +335,8 @@ TLF.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 47.
 
-(./article_notes.aux)
-\openout1 = `article_notes.aux'.
+(./Cappelen2018_ch2.aux)
+\openout1 = `Cappelen2018_ch2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
@@ -358,8 +358,7 @@ File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 47.
@@ -416,9 +415,9 @@ LaTeX Info: Redefining \ref on input line 47.
 LaTeX Info: Redefining \pageref on input line 47.
 LaTeX Info: Redefining \nameref on input line 47.
 
-(./article_notes.out) (./article_notes.out)
+(./Cappelen2018_ch2.out) (./Cappelen2018_ch2.out)
 \@outlinefile=\write3
-\openout3 = `article_notes.out'.
+\openout3 = `Cappelen2018_ch2.out'.
 
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 58.
@@ -431,24 +430,61 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 1 undefin
 ed on input line 58.
 
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 14.4pt on input line 58.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 79.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 82.
+(Font)              scaled to size 10.0pt on input line 77.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 84.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 84.
+[1
 
-Underfull \hbox (badness 1320) in paragraph at lines 97--99
-[]\T1/XCharter-TLF/m/n/10 Consider and com-pare other ap-proaches. This part, f
-or in-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sl' in size <10> not availabl
+e
+(Font)              Font shape `T1/XCharter-TLF/m/it' tried instead on input li
+ne 161.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 161.
+
+
+Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 2 undefin
+ed on input line 161.
+
+[2]
+Underfull \hbox (badness 1122) in paragraph at lines 180--180
+[][]\T1/XCharter-TLF/b/n/12 2.1.13 Brief his-tor-i-cal di-gres-sion: an-a-lytic
+ phi-los-o-phy,
  []
 
 
-Underfull \vbox (badness 1297) has occurred while \output is active []
+Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 3 undefin
+ed on input line 202.
 
- [1
+[3]
+Underfull \hbox (badness 1009) in paragraph at lines 210--212
+\T1/XCharter-TLF/m/n/10 ex-plains how the word salad be-gan to cover fruit sala
+d. Dorr and
+ []
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./article_notes.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 224.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 224.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 224.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 224.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 224.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 224.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 224.
+
+Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 4 undefin
+ed on input line 241.
+
+[4] (./Cappelen2018_ch2.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
@@ -456,42 +492,35 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sl' in size <10> not availabl
-e
-(Font)              Font shape `T1/XCharter-TLF/m/it' tried instead on input li
-ne 156.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 156.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
 
-Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 2 undefin
-ed on input line 156.
+Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 5 undefin
+ed on input line 276.
 
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
- (./article_notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
-Package rerunfilecheck Info: File `article_notes.out' has not changed.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+ (./Cappelen2018_ch2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
+Package rerunfilecheck Info: File `Cappelen2018_ch2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 7038 strings out of 493029
- 103239 string characters out of 6136233
- 197214 words of memory out of 5000000
- 10483 multiletter control sequences out of 15000+600000
- 48476 words of font info for 29 fonts, out of 8000000 for 9000
+ 7087 strings out of 493029
+ 103845 string characters out of 6136233
+ 196192 words of memory out of 5000000
+ 10496 multiletter control sequences out of 15000+600000
+ 68157 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,4n,33p,891b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,33p,894b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/xcharter/xch_tuu2ww.enc}</usr/
 share/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on article_notes.pdf (2 pages, 87822 bytes).
+are/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
+Output written on Cappelen2018_ch2.pdf (5 pages, 87827 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 49 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
