@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.11)  7 DEC 2018 02:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.11)  11 DEC 2018 15:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Cappelen2018_ch2.tex
-(./Cappelen2018_ch2.tex
+**Cappelen2018_ch7.tex
+(./Cappelen2018_ch7.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -335,8 +335,8 @@ TLF.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 47.
 
-(./Cappelen2018_ch2.aux)
-\openout1 = `Cappelen2018_ch2.aux'.
+(./Cappelen2018_ch7.aux)
+\openout1 = `Cappelen2018_ch7.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
@@ -415,112 +415,56 @@ LaTeX Info: Redefining \ref on input line 47.
 LaTeX Info: Redefining \pageref on input line 47.
 LaTeX Info: Redefining \nameref on input line 47.
 
-(./Cappelen2018_ch2.out) (./Cappelen2018_ch2.out)
+(./Cappelen2018_ch7.out) (./Cappelen2018_ch7.out)
 \@outlinefile=\write3
-\openout3 = `Cappelen2018_ch2.out'.
+\openout3 = `Cappelen2018_ch7.out'.
 
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 58.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 58.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 58.
-
-
-Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 1 undefin
-ed on input line 58.
-
+(Font)              scaled to size 14.4pt on input line 64.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 77.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 84.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 84.
-[1
+(Font)              scaled to size 10.0pt on input line 70.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Cappelen2018_ch7.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sl' in size <10> not availabl
 e
 (Font)              Font shape `T1/XCharter-TLF/m/it' tried instead on input li
-ne 161.
+ne 147.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 161.
+(Font)              scaled to size 10.0pt on input line 147.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
 
-
-Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 2 undefin
-ed on input line 161.
-
-[2]
-Underfull \hbox (badness 1122) in paragraph at lines 180--180
-[][]\T1/XCharter-TLF/b/n/12 2.1.13 Brief his-tor-i-cal di-gres-sion: an-a-lytic
- phi-los-o-phy,
- []
-
-
-Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 3 undefin
-ed on input line 202.
-
-[3]
-Underfull \hbox (badness 1009) in paragraph at lines 210--212
-\T1/XCharter-TLF/m/n/10 ex-plains how the word salad be-gan to cover fruit sala
-d. Dorr and
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 224.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 224.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 224.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 224.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 224.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 224.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 224.
-
-Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 4 undefin
-ed on input line 241.
-
-[4] (./Cappelen2018_ch2.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 3.
-
-)
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
-
-Package natbib Warning: Citation `Cappelen2018FixingLanguage' on page 5 undefin
-ed on input line 276.
-
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
- (./Cappelen2018_ch2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
-Package rerunfilecheck Info: File `Cappelen2018_ch2.out' has not changed.
+(./Cappelen2018_ch7.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
+Package rerunfilecheck Info: File `Cappelen2018_ch7.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 7087 strings out of 493029
- 103845 string characters out of 6136233
- 196192 words of memory out of 5000000
- 10496 multiletter control sequences out of 15000+600000
- 68157 words of font info for 40 fonts, out of 8000000 for 9000
+ 7043 strings out of 493029
+ 103370 string characters out of 6136233
+ 195280 words of memory out of 5000000
+ 10486 multiletter control sequences out of 15000+600000
+ 36164 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,33p,894b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,4n,33p,894b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/xcharter/xch_tuu2ww.enc}</usr/
 share/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on Cappelen2018_ch2.pdf (5 pages, 87827 bytes).
+Output written on Cappelen2018_ch7.pdf (2 pages, 73865 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 49 named destinations out of 1000 (max. 500000)
+ 63 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 25 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
