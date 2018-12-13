@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.11)  11 DEC 2018 15:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.11)  14 DEC 2018 01:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -427,33 +427,29 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 64.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 70.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Cappelen2018_ch7.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sl' in size <10> not availabl
 e
 (Font)              Font shape `T1/XCharter-TLF/m/it' tried instead on input li
-ne 147.
+ne 164.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 147.
+(Font)              scaled to size 10.0pt on input line 164.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
-
-(./Cappelen2018_ch7.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
+ (./Cappelen2018_ch7.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `Cappelen2018_ch7.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 7043 strings out of 493029
- 103370 string characters out of 6136233
- 195280 words of memory out of 5000000
- 10486 multiletter control sequences out of 15000+600000
+ 7047 strings out of 493029
+ 103495 string characters out of 6136233
+ 196312 words of memory out of 5000000
+ 10489 multiletter control sequences out of 15000+600000
  36164 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,4n,33p,894b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -461,10 +457,10 @@ Here is how much of TeX's memory you used:
 share/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on Cappelen2018_ch7.pdf (2 pages, 73865 bytes).
+Output written on Cappelen2018_ch7.pdf (2 pages, 76013 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 26 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

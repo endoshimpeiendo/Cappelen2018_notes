@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Cappelen2018_ch7"] 1544504591 "Cappelen2018_ch7.aux" "Cappelen2018_ch7.bbl" "Cappelen2018_ch7" 1544511172
+["bibtex Cappelen2018_ch7"] 1544718760 "Cappelen2018_ch7.aux" "Cappelen2018_ch7.bbl" "Cappelen2018_ch7" 1544718871
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "Cappelen2018_ch7.aux" 1544511172 1722 5f3eed31a79a1c7bb196f02d1e49930c ""
+  "Cappelen2018_ch7.aux" 1544718805 1822 44c47f3055b4fc94dd792790735b8e72 ""
   "Cappelen2018_ch7.bcf" 0 -1 0 ""
-  "Mendeley.bib" 1544421471 412441 6cd3fd0508647a94b44632eb405a39b7 ""
+  "Mendeley.bib" 1544718755 405574 e0a974d4973abfc5f8a58d44e379609d ""
   (generated)
   "Cappelen2018_ch7.bbl"
   "Cappelen2018_ch7.blg"
-["pdflatex"] 1544511171 "Cappelen2018_ch7.tex" "Cappelen2018_ch7.pdf" "Cappelen2018_ch7" 1544511172
+["pdflatex"] 1544718805 "Cappelen2018_ch7.tex" "Cappelen2018_ch7.pdf" "Cappelen2018_ch7" 1544718871
   "/etc/texmf/web2c/texmf.cnf" 1512976838 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/xcharter/xch_tuu2ww.enc" 1437951022 3152 0dd35f1118812126179f146843070f21 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -68,13 +68,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1512976978 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1512977080 3854585 5dd5898239ca2727deacfc98a142c5b8 ""
-  "Cappelen2018_ch7.aux" 1544511172 1722 5f3eed31a79a1c7bb196f02d1e49930c ""
-  "Cappelen2018_ch7.bbl" 1544504591 431 5f0e99f40799e88dd8b6e3015a62ab56 "bibtex Cappelen2018_ch7"
-  "Cappelen2018_ch7.out" 1544511172 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Cappelen2018_ch7.tex" 1544511171 7181 1f13dfc06703b738b8ca57282b3dca5a ""
-  "structure.tex" 1543569732 2608 26402de6b19238a7ca0aa83a55c7b297 ""
+  "Cappelen2018_ch7.aux" 1544718805 1822 44c47f3055b4fc94dd792790735b8e72 ""
+  "Cappelen2018_ch7.bbl" 1544718760 587 f00474bb41692ed4c49b91c69289d84b "bibtex Cappelen2018_ch7"
+  "Cappelen2018_ch7.out" 1544718805 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Cappelen2018_ch7.tex" 1544718871 8379 521d2c79aebcc18f2b21ac7ee5129a01 ""
+  "structure.tex" 1544715427 2608 26402de6b19238a7ca0aa83a55c7b297 ""
   (generated)
-  "Cappelen2018_ch7.aux"
-  "Cappelen2018_ch7.log"
   "Cappelen2018_ch7.out"
   "Cappelen2018_ch7.pdf"
+  "Cappelen2018_ch7.aux"
+  "Cappelen2018_ch7.log"
