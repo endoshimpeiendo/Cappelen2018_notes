@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Cappelen2018_ConcludingRemarks"] 1547369263 "Cappelen2018_ConcludingRemarks.aux" "Cappelen2018_ConcludingRemarks.bbl" "Cappelen2018_ConcludingRemarks" 1547369589
+["bibtex Cappelen2018_ConcludingRemarks"] 1547622517 "Cappelen2018_ConcludingRemarks.aux" "Cappelen2018_ConcludingRemarks.bbl" "Cappelen2018_ConcludingRemarks" 1547622593
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "Cappelen2018_ConcludingRemarks.aux" 1547369264 1600 e41e0f898e3cb8f7513a26bfe8bb10fe ""
+  "Cappelen2018_ConcludingRemarks.aux" 1547622593 1644 ea4090933306857ef47a76a6850510de ""
   "Cappelen2018_ConcludingRemarks.bcf" 0 -1 0 ""
   "Mendeley.bib" 1544718755 405574 e0a974d4973abfc5f8a58d44e379609d ""
   (generated)
-  "Cappelen2018_ConcludingRemarks.blg"
   "Cappelen2018_ConcludingRemarks.bbl"
-["pdflatex"] 1547369264 "Cappelen2018_ConcludingRemarks.tex" "Cappelen2018_ConcludingRemarks.pdf" "Cappelen2018_ConcludingRemarks" 1547369589
+  "Cappelen2018_ConcludingRemarks.blg"
+["pdflatex"] 1547622593 "Cappelen2018_ConcludingRemarks.tex" "Cappelen2018_ConcludingRemarks.pdf" "Cappelen2018_ConcludingRemarks" 1547622593
   "/etc/texmf/web2c/texmf.cnf" 1546764975 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/xcharter/xch_tuu2ww.enc" 1437951022 3152 0dd35f1118812126179f146843070f21 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -68,13 +68,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1512976978 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1546765058 3854560 2a6ee7448f6a096b5ba0de853f50ae02 ""
-  "Cappelen2018_ConcludingRemarks.aux" 1547369264 1600 e41e0f898e3cb8f7513a26bfe8bb10fe ""
-  "Cappelen2018_ConcludingRemarks.bbl" 1547369263 254 9710f62f73f1ca7e22aa5bfdd046431c "bibtex Cappelen2018_ConcludingRemarks"
-  "Cappelen2018_ConcludingRemarks.out" 1547369264 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Cappelen2018_ConcludingRemarks.tex" 1547369588 5738 f277ee3a6c3774033ef5f7b0f8fa52a9 ""
+  "Cappelen2018_ConcludingRemarks.aux" 1547622593 1644 ea4090933306857ef47a76a6850510de ""
+  "Cappelen2018_ConcludingRemarks.bbl" 1547622518 254 9710f62f73f1ca7e22aa5bfdd046431c "bibtex Cappelen2018_ConcludingRemarks"
+  "Cappelen2018_ConcludingRemarks.out" 1547622593 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Cappelen2018_ConcludingRemarks.tex" 1547622593 6474 1b62be7a079dc95d101dbda03412bbef ""
   "structure.tex" 1544715427 2608 26402de6b19238a7ca0aa83a55c7b297 ""
   (generated)
+  "Cappelen2018_ConcludingRemarks.out"
   "Cappelen2018_ConcludingRemarks.aux"
   "Cappelen2018_ConcludingRemarks.pdf"
   "Cappelen2018_ConcludingRemarks.log"
-  "Cappelen2018_ConcludingRemarks.out"
